@@ -1,7 +1,7 @@
 {
   "name": "mma2772-react-client3",
   "version": "0.1.0",
-  "homepage": "https://github.com/maccaabdi1/NightClubTracker",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
