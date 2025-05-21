@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet"  href="clubs.css">
+        <script src="clubs.js"></script>
+       
+    </head>
+<body>
+<div class="container">
+
+    <h1>NightClub Capacity Tracker</h1>
+    <h3>Each time someone enters/ leaves the club, select the correct club and click the appropriate button</h3>
+
+
+    <div class="club-container">
+        <div class="clubs" id="clubArcane">Club Arcane
+            <span class="club-status" id ="clubArcaneStatus"></span>
+        </div>
+       
+        <div class="clubs" id="clubUnderGround">Club Underground
+            <span class="club-status" id ="clubUnderGroundStatus"></span>
+        </div>
+       
+        <div class="clubs" id="clubSoda">Club Soda
+            <span class="club-status" id ="clubSodaStatus"></span>
+        </div>
+        
+        <div class="clubs" id="studio52">Studio 52
+            <span class="club-status" id ="studio52Status"></span>
+        </div>
+        
+    </div>
+
+    <div class="counter-container">
+        <div class="counter" id="counter1">0</div>
+        <div class="counter" id="counter2">0</div>
+        <div class="counter" id="counter3">0</div>
+        <div class="counter" id="counter4">0</div>  
+    </div>
+
+
+    <div class="choices" id="" >
+    <div>
+        <label >
+            <input type="radio" name="option" value="counter1">Club Arcane
+        </label><br>
+        <label >
+            <input type="radio" name="option" value="counter2">Club Underground
+        </label><br>
+        <label >
+            <input type="radio" name="option" value="counter3"> Club Soda 
+        </label><br>
+        <label>
+            <input type="radio" name="option" value="counter4">Studio 52
+            </label>
+        </div>
+    </div>
+
+
+    <div class="buttons" >
+        <button onclick="enterClub()" >+</button>
+        <button onclick= "leaveClub()">-</button>
+    </div>
+</div>
+
+</body>
+</html>

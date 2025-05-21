@@ -1,0 +1,99 @@
+#root{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #FFF9D1;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  h1, h3{
+    color: black;
+    text-align:center;
+  }
+  .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+  }
+  .club-container{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    
+    
+  }
+  .clubs{
+    width: 250px;
+  
+  }
+  .add-button
+  {
+   display: flex;
+   justify-content: flex-end;
+   margin-top: 20px;
+   padding: 15px;
+  
+  }
+  .button-group
+  {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  
+  .club-status{
+    display: block;
+    margin-top: 30px;
+  }
+  
+  
+  
+  .choices label{
+    display: block;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  .counter-container{
+    
+    display: flex;
+    justify-content: space-around;
+    gap: 275px;
+    margin-top: 10px;    
+  }
+  
+  .counter{
+    width: 10px;
+    font-weight: bold;
+    font-size: larger;
+  }
+  .buttons{
+  
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+   gap: 20px;
+   padding: 15px;
+  }
+  
+  
+  .filter-bar
+  {
+    width: 100%;
+    max-width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    box-sizing: border-box;
+  }
+  
+  @media (min-width: 768px)
+  {
+    .filter-bar{
+      max-width: 1000px;
+    }
+  }
+  
