@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/maccaabdi1/NightClubTracker/static/css/main.a95f4119.css",
-    "main.js": "/maccaabdi1/NightClubTracker/static/js/main.2bc26d48.js",
-    "static/js/453.e85d8dd4.chunk.js": "/maccaabdi1/NightClubTracker/static/js/453.e85d8dd4.chunk.js",
-    "index.html": "/maccaabdi1/NightClubTracker/index.html",
-    "main.a95f4119.css.map": "/maccaabdi1/NightClubTracker/static/css/main.a95f4119.css.map",
-    "main.2bc26d48.js.map": "/maccaabdi1/NightClubTracker/static/js/main.2bc26d48.js.map",
-    "453.e85d8dd4.chunk.js.map": "/maccaabdi1/NightClubTracker/static/js/453.e85d8dd4.chunk.js.map"
+    "main.css": "/NightClubTracker/static/css/main.a95f4119.css",
+    "main.js": "/NightClubTracker/static/js/main.796c27b4.js",
+    "static/js/453.e85d8dd4.chunk.js": "/NightClubTracker/static/js/453.e85d8dd4.chunk.js",
+    "index.html": "/NightClubTracker/index.html",
+    "main.a95f4119.css.map": "/NightClubTracker/static/css/main.a95f4119.css.map",
+    "main.796c27b4.js.map": "/NightClubTracker/static/js/main.796c27b4.js.map",
+    "453.e85d8dd4.chunk.js.map": "/NightClubTracker/static/js/453.e85d8dd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a95f4119.css",
-    "static/js/main.2bc26d48.js"
+    "static/js/main.796c27b4.js"
   ]
 }
