@@ -25,9 +25,11 @@ Night Club Capacity Tracker
 
 *Versions*
 
-Version	Description
-Client-0	Basic HTML with inline JS and CSS\n
-Client-1	Adds external JS and CSS for improved structure\n
-Client-2	Converts to class-based React app\n
-Client-3	Adds responsive design with Reactstrap\n
-Client-4	Full-stack app with Flask backend and PostgreSQL database integration
+| Version    | Version Description                   |
+| -------- | ----------------------- |
+| Client-2 | class-based React app     |
+| Client-3  |Adds responsive design with Reactstrap          |
+| Client-4 |Full-stack app with Flask backend and PostgreSQL database integration       |
+
+
+
